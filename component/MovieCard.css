@@ -1,0 +1,30 @@
+.cardImg {
+  width: 500px;
+  height: 400px;
+  border-radius: 10px;
+}
+
+.card {
+  width: 500px;
+  height: 600px;
+  border: 1px solid white;
+  border-radius: 10px;
+  margin: 20px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.title,
+.year,
+.actors,
+.country {
+  padding: 10px;
+}
+
+.btnWrap {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

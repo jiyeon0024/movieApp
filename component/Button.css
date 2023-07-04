@@ -1,0 +1,16 @@
+.btn {
+  background: none;
+  color: white;
+  border: none;
+  font-size: 15px;
+  padding: 5px 20px;
+  border: 1px solid white;
+  border-radius: 10px;
+  margin: 5px;
+  cursor: pointer;
+}
+
+.btn:hover {
+  border: 1px solid cyan;
+  color: cyan;
+}
